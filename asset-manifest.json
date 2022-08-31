@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f9fcbfb.css",
-    "main.js": "/static/js/main.424bf342.js",
+    "main.js": "/static/js/main.b1333d5a.js",
     "static/media/project-puerto-vallarta.png": "/static/media/project-puerto-vallarta.a071cbb3ba1922fdc053.png",
     "static/media/project-drinkify.png": "/static/media/project-drinkify.2e432fffbbf265a4e766.png",
     "static/media/project-quick-bytes.png": "/static/media/project-quick-bytes.bbcfebd3e9b5924278d5.png",
@@ -11,10 +11,10 @@
     "index.html": "/index.html",
     "static/media/icon-arrow.svg": "/static/media/icon-arrow.858c0acefa23fbc634ccef1bda72bbbf.svg",
     "main.9f9fcbfb.css.map": "/static/css/main.9f9fcbfb.css.map",
-    "main.424bf342.js.map": "/static/js/main.424bf342.js.map"
+    "main.b1333d5a.js.map": "/static/js/main.b1333d5a.js.map"
   },
   "entrypoints": [
     "static/css/main.9f9fcbfb.css",
-    "static/js/main.424bf342.js"
+    "static/js/main.b1333d5a.js"
   ]
 }
